@@ -1,0 +1,27 @@
+.header{
+    padding: 16px 0;
+    .inner{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .headline{
+        font-size: 38px;
+        line-height: 40px;
+        color: #EF885A;
+    }
+    .num-box{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 30px;
+        height: 30px;
+        border-radius: 30px;
+        background: #EF885A;
+    }
+    .num{
+        font-size: 16px;
+        line-height: 23.17px;
+        color: #fff;
+    }
+}
